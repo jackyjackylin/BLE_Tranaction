@@ -1,0 +1,10 @@
+body{
+    background-color:#FFD700;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+}
+.BOX{
+    margin-top: 35%;  
+}

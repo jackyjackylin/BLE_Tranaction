@@ -1,0 +1,15 @@
+body{
+    background-color:#FFD700;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+}
+.BOX{
+    background-color: white;
+    margin-top: 35%;  
+    border-radius:5px;
+    font-size: 15px;
+    margin-bottom :15%;
+    padding: 15%;
+}
